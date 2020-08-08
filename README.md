@@ -37,7 +37,7 @@
 ### 8) story_status:
 #### This function should be performed only after carrying out function 5). This function checks if the story has been viewed already or not, or if a story exists at all. If a story exists and has not been viewed already, the story gets viewed. According the the scenario, a message is also generated.
 
-### 9) recentfollowers:
+### 9) recentfollowerusernames:
 #### Returns the instagram ids of the followers who have followed a particular account recently. Should be performed only after funstion 5).
 
 ### 10) public_or_not:
