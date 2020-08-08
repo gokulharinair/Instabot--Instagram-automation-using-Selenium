@@ -45,4 +45,7 @@
 ### 11) followed_account_public_or_not:
 #### Works in the same way as above function, except that this works only on profiles that you follow.
 
+### 12) backtohomepage:
+#### Returns back to home page.
+
 ### The above functions have been constructed according to my knowleadge regarding selenium and the internet connectivity in my area. If any modifications can be done in the above functions, please let me. Your feedback will be valuable to me. Thank You!
