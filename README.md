@@ -45,4 +45,4 @@
 ### 11) followed_account_public_or_not:
 #### Works in the same way as above function, except that this works only on profiles that you follow.
 
-### The above functions have been constructed according to the internet connectivity of my area. If any modifications can be done in the above functions, please let me. Your feedback will be valuable to me. Thank You!
+### The above functions have been constructed according to my knowleadge regarding selenium and the internet connectivity in my area. If any modifications can be done in the above functions, please let me. Your feedback will be valuable to me. Thank You!
