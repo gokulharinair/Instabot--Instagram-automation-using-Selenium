@@ -1,7 +1,8 @@
 # Instabot--Instagram-automation-using-Selenium
 
 ## This project has been created using Python and Selenium. 
-## All the functions used for this project have been defined under the class named my_bot. A sample working of the code has been showed in the provided notebook.
+## All the functions used for this project have been defined under the class named my_bot. 
+## A sample working of the code has been showed in the provided notebook.
 
 ## The functions which are defined and used are:
 
